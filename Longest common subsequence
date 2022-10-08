@@ -29,7 +29,7 @@ int main()
     cout<<"Length of LCS is "<< lcs( X, Y, m, n ) ;
      
     return 0;
-    //comment
+    //comment2
 }
  
 // This code is contributed by rathbhupendra
